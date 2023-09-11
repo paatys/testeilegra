@@ -1,0 +1,14 @@
+{
+  "name": "cypress-bloagi",
+  "version": "1.0.0",
+  "description": "Automacao de dois cenarios de testes da funcionalidade de pesquisar artigo do blog agi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amanda Silva",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.1.0"
+  }
+}
